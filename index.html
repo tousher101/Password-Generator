@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Password Generator</title>
+    <link rel="stylesheet" href="password-Gen.css">
+</head>
+<body>
+    <h1 style="font-size: 3rem; text-align: center;">Password Generator </h1>
+    <div class="main-container">
+        <div class="input-container">
+            <input class="number-input" type="number" min="6" max="50" placeholder="min-6  Max-50">
+           <div> <span> Include Uppercase Letters: </span>  <input  class="upperCase" type="checkbox" > </div>
+           <div> <span>Include Lowercase Letters: </span> <input class="lowerCase" type="checkbox" ></div>
+            <div>  <span>Include Symbles: </span> <input class="symbol" type="checkbox" ></div>
+          <div> <span>Include Numbers: </span> <input class="number" type="checkbox" ></div> 
+          <div> <span>Include Similer Letters: </span> <input class="similer" type="checkbox" ></div> 
+             </div>
+        
+            <div  class="result-display"><p ></p></div>
+                    <div><button class="submit-btn">Submit</button> </div>
+            
+
+       
+    </div>
+
+    <script src="password-Gen.js"></script>
+</body>
+</html>
