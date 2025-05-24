@@ -1,14 +1,14 @@
 # Password Generator- Password Utility App
 A full features of Password utilized App, and responsive UI using CSS.
 
-#features
--> Randomized Password UpperCase.
--> Randomized Password Lower Case.
--> Randomized Password Number Case.
--> Randomized Password Symbal Case.
--> Randomized Password Similar Case
--> Convert Title Case.
--> Full Resposive for (Mobile, Tablet, Laptop, Desktop).
+## Features
+- Randomized Password UpperCase.
+- Randomized Password Lower Case.
+- Randomized Password Number Case.
+- Randomized Password Symbal Case.
+- Randomized Password Similar Case
+- Convert Title Case.
+- Full Resposive for (Mobile, Tablet, Laptop, Desktop).
 
 
 ## 🛠 Tech Stack
@@ -33,8 +33,7 @@ Clone the project:
 ```bash
 git clone https://github.com/tousher101/Password-Generator.git
 cd Password-Generator
-npm install
-npm run dev
+
 
 
 
